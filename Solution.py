@@ -1,10 +1,9 @@
 
-Group = {"GROUP_NAME": "No Run Team 9",                   # choose a short name for your group
+Group = {"GROUP_NAME": "No Run Team 9",                  
          "GROUP_MEMBER_1": "Kim JiAn",
          "GROUP_MEMBER_2": "Lee KyuHwan"
          }
 
-from assignment02_student_2.decision_tree import DecisionTree
 import pandas as pd
 class MRP:
 
